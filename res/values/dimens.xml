@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title">20sp</dimen>
+    <string name="title">SMART PREGNANCY SYSTEM</string>
+    <dimen name="sub_title">18sp</dimen>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <string name="llm">Last day of your Last Mestruation</string>
+    <string name="lmd">Last Mating Date</string>
+    <string name="day">Day: </string>
+    <string name="year">Year: </string>
+    <string name="month">Month: </string>
+    <string name="appointment">N.B: You have an appointment with your Mid-Wife or Doctor this Week</string>
+    <color name="red">#FF0000</color>
+    <string name="congrat">Congratulation! Your pregnancy is:</string>
+    <string name="edd">Your Expected Due-Date is:</string>
+    <string name="edd_label">E.D.D: </string>
+    <string name="appoint0">&lt;html&gt;YOU HAVE NO APPOINTMET THIS WEEK, CHECK CALENDAR FOR YOUR NEXT SCHEDULE.&lt;/html&gt;</string>
+    <string name="appoint1">&lt;html&gt;This is the appointment when you tell your midwife or doctor that you&amp;rsquo;re pregnant. They should give you information about:&lt;br/&gt;*folic acid and vitamin D supplements&lt;br/&gt;*nutrition, diet and food hygiene&lt;br/&gt;*lifestyle factors, such as smoking, drinking and recreational drug use&lt;br/&gt;*antenatal screening tests, including screening for sickle cell diseases and thalassaemia, the anomaly scan and screening for Down\'s syndrome, as well as risks, benefits and limits of these tests&lt;br/&gt;It&amp;rsquo;s important to tell your midwife or doctor if:&amp;nbsp;&lt;br/&gt;*there were any complications or infections&amp;nbsp;in a previous pregnancy or delivery, such as pre-eclampsia or premature birth&lt;br/&gt;*you\'re being treated for&amp;nbsp;a chronic disease such as diabetes or high blood pressure&lt;br/&gt;*you or anyone in your family has previously had a baby with an abnormality, for example, spina bifida&lt;br/&gt;*there is a family history of an inherited disease, for example, sickle cell or cystic fibrosis&lt;/html&gt;</string>
+    <string name="appoint2">&lt;html&gt;Your midwife or doctor should give you information about:&amp;nbsp;&lt;br/&gt;*how the baby develops during pregnancy&lt;br/&gt;*nutrition and diet&lt;br/&gt;*exercise and pelvic floor exercises&lt;br/&gt;*antenatal screening tests&lt;br/&gt;*your antenatal care&lt;br/&gt;*breastfeeding, including workshops&lt;br/&gt;*antenatal education&lt;br/&gt;*maternity benefits&lt;br/&gt;*planning your labour&lt;br/&gt;*your options for where to have your baby&lt;br/&gt;Your midwife or doctor should:&lt;br/&gt;give you your handheld notes and plan of care&lt;br/&gt;see if you may need additional care or support&lt;br/&gt;plan the care you will get throughout your pregnancy&lt;br/&gt;identify any potential risks associated with any work you may do&lt;br/&gt;measure your height and weight and calculate your body mass index (BMI)&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;br/&gt;find out whether you are at increased risk of gestational diabetes or pre-eclampsia&lt;br/&gt;offer you screening tests and make sure you understand what is involved before you decide to have any of them&lt;br/&gt;offer you an ultrasound scan at eight to 14 weeks to estimate when your baby is due&lt;br/&gt;offer you an ultrasound scan at 18-20 weeks to check the   physical development of your baby and screen for possible abnormalities&lt;/html&gt;</string>
+    <string name="appoint3">&lt;html&gt;This is the ultrasound scan to estimate when your baby is due, check the physical development of your baby and screen for possible abnormalities.&lt;/html&gt;</string>
+    <string name="appoint4">&lt;html&gt;Your midwife or doctor&amp;nbsp;will give you information about the ultrasound anomaly&amp;nbsp;scan you will be offered at 18-20 weeks.They&amp;nbsp;will also&amp;nbsp;help with any concerns or questions you have.Your midwife or doctor should:&amp;nbsp;&lt;br/&gt;*review, discuss and record the results of any screening tests&lt;br/&gt;*measure your blood pressure and test your urine for protein&lt;br/&gt;*consider an iron supplement if you\'re anaemic&amp;nbsp;&amp;nbsp;&lt;/html&gt;</string>
+    <string name="antenatal">Antenatal Appointment</string>
+    <string name="appoint0title">No Appointment</string>
+    <string name="appoint1title">First contact with midwife or doctor</string>
+    <string name="appoint2title">Booking appointment</string>
+    <string name="appoint3title">Dating scan</string>
+    <string name="appoint4title">16 weeks pregnant</string>
+    <string name="appoint8title">31 weeks pregnant</string>
+    <string name="appoint8">&lt;html&gt;You will have an appointment at 31 weeks if this is your first baby.&lt;br/&gt;Your midwife or doctor should:&lt;br/&gt;review, discuss and record the results of any screening tests from the last appointment&lt;br/&gt;use a tape measure to measure the size of your uterus&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;/html&gt;</string>
+    <string name="appoint7title">28 weeks pregnant</string>
+    <string name="appoint7">&lt;html&gt;Your midwife or doctor should:&amp;nbsp;&lt;br/&gt;use a tape&amp;nbsp;measure to measure the size of your uterus&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;br/&gt;offer more screening tests&lt;br/&gt;offer your first anti-D treatment if you are rhesus negative&lt;/html&gt;</string>
+    <string name="appoint6title">25 weeks pregnant</string>
+    <string name="appoint6">&lt;html&gt;You will have an appointment at 25 weeks if this is your first baby.&lt;br/&gt;Your midwife or doctor should:&lt;br/&gt;use a tape measure to measure the size of your uterus&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;/html&gt;</string>
+    <string name="appoint5title">Anomaly scan</string>
+    <string name="appoint5">&lt;html&gt;You will have an ultrasound scan to check the physical development of   your baby. Remember, the main purpose of this scan is to check that   there are no physical abnormalities.&lt;/html&gt;</string>
+    <string name="appoint9title">34 weeks pregnant</string>
+    <string name="appoint9">&lt;html&gt;Your midwife or doctor should give you information about preparing for labour and birth, including how to recognise active labour, ways of   coping with pain in labour and your birth plan. Your midwife or doctor should:&amp;nbsp;&lt;br/&gt;review, discuss and record the results of any screening tests from the last appointment&lt;br/&gt;use a tape&amp;nbsp;measure to measure the size of your uterus&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;br/&gt;offer your second anti-D treatment if you are rhesus negative&lt;br/&gt;Your midwife or doctor&amp;nbsp;should give you information about caesarean section, because around one in four women will have a caesarean. This discussion may take place at the 34 week appointment, or   at another time during your pregnancy. They&amp;nbsp;will discuss with you   the reasons why a caesarean&amp;nbsp;might be offered, what the procedure   involves, risks and benefits, and implications for future pregnancies and births.&lt;/html&gt;</string>
+    <string name="appoint10title">36 weeks pregnant</string>
+    <string name="appoint10">&lt;html&gt;Your midwife or doctor should give you information about:&lt;br/&gt;breastfeeding&lt;br/&gt;caring for your newborn baby&lt;br/&gt;vitamin K and screening tests for your newborn baby&lt;br/&gt;your own health after your baby is born&lt;br/&gt;the &amp;quot;baby blues&amp;quot; and postnatal depression&lt;br/&gt;Your midwife or doctor will also:&lt;br/&gt;use a tape&amp;nbsp;measure to measure the size of your uterus&lt;br/&gt;check the position of your baby&lt;/html&gt;</string>
+    <string name="appoint11title">38 weeks pregnant</string>
+    <string name="appoint11">&lt;html&gt;Your midwife or doctor will discuss the options and choices about what happens if your pregnancy lasts longer than 41 weeks. Your midwife or doctor should:&amp;nbsp;&lt;br/&gt;use a tape&amp;nbsp;measure to measure the size of your uterus&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;/html&gt;</string>
+    <string name="appoint12title">40 weeks pregnant</string>
+    <string name="appoint12">&lt;html&gt;You will have an appointment at 40 weeks if this is your first baby.&lt;br/&gt;Your midwife or doctor should give you more information about what happens if your pregnancy lasts longer than 41 weeks. Your midwife or   doctor should:&lt;br/&gt;use a tape&amp;nbsp;measure to measure the size of your uterus&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;/html&gt;</string>
+    <string name="appoint13title">41 weeks pregnant</string>
+    <string name="appoint13">&lt;html&gt;Your midwife or doctor should:&lt;br/&gt;use a tape&amp;nbsp;measure to measure the size of your uterus&lt;br/&gt;measure your blood pressure and test your urine for protein&lt;br/&gt;offer a membrane sweep&lt;br/&gt;discuss the options and choices for induction of labour&amp;nbsp;&lt;/html&gt;</string>
+    <string name="appoint14title">42 weeks pregnant</string>
+    <string name="appoint14">&lt;html&gt;Most women go into labour spontaneously by the time they are 42 weeks pregnant. If your pregnancy lasts longer than 42 weeks and you decide   not to have your labour induced, you should be offered increased   monitoring to check your baby\'s wellbeing.&lt;br/&gt;There is a higher risk of&amp;nbsp;stillbirth &amp;nbsp;if you go over 42 weeks pregnant, although most babies remain   healthy.&amp;nbsp;At the moment there is no way to reliably predict which   babies are at increased risk of stillbirth,&amp;nbsp;so induction is offered   to all women who don\'t go into labour by 42 weeks.&lt;br/&gt;Having induction of labour after the date your baby is due does not increase the chance (risk) of caesarean section. There is some evidence that it may slightly reduce the&amp;nbsp;chance of having a caesarean section.&lt;/html&gt;</string>
+
+</resources>
